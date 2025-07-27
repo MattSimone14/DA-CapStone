@@ -13,11 +13,10 @@ By merging these datasets, it will highlight areas where restaurants maintain hi
 
 Step 1: You will want to clone the Repository
 a. Open your terminal
-b. Navigate to the folder you want the project at.
+b. Navigate to the folder you want the project to be.
 c. Clone the repository
-• git clone https://github.com/your-username/safe-eating-louisville.git
-• cd safe-eating-louisville
 • git clone https://github.com/MattSimone14/DA-CapStone.git
+• cd DA-CapStone
 
 Step 2: Next Create a Virtual Environment
 a. Create a new environment
